@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--
+ The attr name is, by convention, the same name as the name of the class that defines the custom view
+  (in this case, DialView). Although it's not strictly necessary to follow this convention,
+ many popular code editors depend on this naming convention to provide statement completion.
+
+-->
+  <declare-styleable name="DialView">
+    <attr name="fanColor1" format="color" />
+    <attr name="fanColor2" format="color" />
+    <attr name="fanColor3" format="color" />
+  </declare-styleable>
+
+
+</resources>
